@@ -25,7 +25,7 @@ SECRET_KEY = 'j2mytp+98dcrs-s4o=meainkf#@d*sp(1pl&)zggul35n-dshz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['chacon67.pythonanywhere.com']
+ALLOWED_HOSTS = ['chacon67.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
